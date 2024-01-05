@@ -118,7 +118,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jadenblack/AppFlowy](https://github.com/jadenblack/AppFlowy)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|140<br/>Tools used|12/14/23 <br/>Report generated|
+|141<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -622,7 +622,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (82)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (83)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/package_manager/105011/default_80893882f2063344b2942a4ccdce27a2e60711c9.png'/> Pub (47)
 
@@ -677,7 +677,7 @@ Full tech stack [here](/techstack.md)
 |[uuid](https://pub.dartlang.org/uuid)|v3.0.7|07/13/21|appflowy |N/A|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (33)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (34)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -698,6 +698,7 @@ Full tech stack [here](/techstack.md)
 |[events](https://www.npmjs.com/events)|v3.3.0|03/22/23|qinluhe |MIT|N/A|
 |[google-protobuf](https://www.npmjs.com/google-protobuf)|v3.21.2|03/17/23|Nathan.fooo |BSD-3-Clause|N/A|
 |[jest-environment-jsdom](https://www.npmjs.com/jest-environment-jsdom)|v29.6.2|09/12/23|Kilu.He |MIT|N/A|
+|[katex](https://www.npmjs.com/katex)|v0.16.7|06/27/23|Kilu.He |MIT|N/A|
 |[lodash-es](https://www.npmjs.com/lodash-es)|v4.17.21|11/08/23|Kilu.He |MIT|N/A|
 |[prismjs](https://www.npmjs.com/prismjs)|v1.29.0|05/10/23|Kilu.He |MIT|N/A|
 |[quill](https://www.npmjs.com/quill)|v1.3.7|06/02/23|Kilu.He |BSD-3-Clause|[CVE-2021-3163](https://github.com/advisories/GHSA-4943-9vgg-gr5r) (Moderate)|
