@@ -1,11 +1,12 @@
 repo_name: jadenblack/AppFlowy
 report_id: 5c1da34d0153905e529f9a4fb99e1181
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T17:21:29+00:00'
+timestamp: '2024-01-05T08:23:23+00:00'
 requested_by: appflowy
 provider: github
 branch: main
-detected_tools_count: 140
+detected_tools_count: 141
 tools:
 - name: C lang
   description: One of the most widely used programming languages of all time
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy
   detection_source: Repo Metadata
 - name: Dart
   description: A new web programming language with libraries, a virtual machine, and
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -54,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -64,6 +70,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/jadenblack/AppFlowy
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -73,6 +80,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -83,6 +91,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -93,6 +102,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy
   detection_source: Repo Metadata
 - name: Rust
   description: A safe, concurrent, practical language
@@ -102,6 +112,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -111,6 +122,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/rust-lib/flowy-sqlite/migrations/2023-06-05-023648_user/down.sql
   detection_source: frontend/rust-lib/flowy-sqlite/migrations/2023-06-05-023648_user/down.sql
   last_updated_by: appflowy
   last_updated_on: 2022-03-04 13:26:32.000000000 Z
@@ -123,6 +135,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -133,6 +146,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/jadenblack/AppFlowy
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -144,6 +158,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/rust-lib/flowy-user/Cargo.toml
   detection_source: frontend/rust-lib/flowy-user/Cargo.toml
   last_updated_by: appflowy
   last_updated_on: 2021-06-29 08:52:29.000000000 Z
@@ -156,6 +171,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_flutter/packages/flowy_infra_ui/example/android/app/build.gradle
   detection_source: frontend/appflowy_flutter/packages/flowy_infra_ui/example/android/app/build.gradle
   last_updated_by: Sean Riley Hawkins
   last_updated_on: 2022-09-01 04:27:09.000000000 Z
@@ -167,6 +183,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_tauri/package.json
   detection_source: frontend/appflowy_tauri/package.json
   last_updated_by: Nathan.fooo
   last_updated_on: 2023-02-10 08:26:14.000000000 Z
@@ -179,6 +196,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_flutter/packages/appflowy_backend/example/pubspec.yaml
   detection_source: frontend/appflowy_flutter/packages/appflowy_backend/example/pubspec.yaml
   last_updated_by: appflowy
   last_updated_on: 2022-08-31 03:15:35.000000000 Z
@@ -191,6 +209,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_tauri/package.json
   detection_source: frontend/appflowy_tauri/package.json
   last_updated_by: Nathan.fooo
   last_updated_on: 2023-01-17 08:27:17.000000000 Z
@@ -203,6 +222,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_tauri/package.json
   detection_source: frontend/appflowy_tauri/package.json
   last_updated_by: Nathan.fooo
   last_updated_on: 2023-01-17 08:27:17.000000000 Z
@@ -282,6 +302,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Serialization Frameworks
   image_url: https://img.stackshare.io/service/11028/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/rust-lib/lib-dispatch/Cargo.toml
   detection_source: frontend/rust-lib/lib-dispatch/Cargo.toml
   last_updated_by: Nathan.fooo
   last_updated_on: 2023-11-12 13:18:27.000000000 Z
@@ -294,6 +315,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_tauri/package.json
   detection_source: frontend/appflowy_tauri/package.json
   last_updated_by: Nathan.fooo
   last_updated_on: 2023-02-28 14:42:41.000000000 Z
@@ -305,6 +327,7 @@ tools:
   category: Libraries
   sub_category: JavaScript Framework Components
   image_url: https://img.stackshare.io/service/9878/react-beautiful-dnd-logo.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_tauri/package.json
   detection_source: frontend/appflowy_tauri/package.json
   last_updated_by: Kilu.He
   last_updated_on: 2023-11-08 06:13:17.000000000 Z
@@ -317,6 +340,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/2296/postgrest.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/rust-lib/flowy-server/Cargo.toml
   detection_source: frontend/rust-lib/flowy-server/Cargo.toml
   last_updated_by: Zack
   last_updated_on: 2023-09-17 09:14:34.000000000 Z
@@ -328,6 +352,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_flutter/android/app/src/main/CMakeLists.txt
   detection_source: frontend/appflowy_flutter/android/app/src/main/CMakeLists.txt
   last_updated_by: Lucas.Xu
   last_updated_on: 2023-10-19 01:55:23.000000000 Z
@@ -339,6 +364,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/AppFlowy
   detection_source: Repo Metadata
 - name: Chai
   description: A BDD / TDD assertion library
@@ -363,6 +389,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy
   detection_source: Repo Metadata
 - name: Dotenv
   description: Loads environment variables from .env for Nodejs projects
@@ -373,6 +400,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/rust-lib/event-integration/Cargo.toml
   detection_source: frontend/rust-lib/event-integration/Cargo.toml
   last_updated_by: Nathan.fooo
   last_updated_on: 2023-10-02 09:22:22.000000000 Z
@@ -385,6 +413,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_tauri/package.json
   detection_source: frontend/appflowy_tauri/package.json
   last_updated_by: Nathan.fooo
   last_updated_on: 2023-01-17 08:27:17.000000000 Z
@@ -396,6 +425,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -405,6 +435,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/.github/workflows/commit_lint.yml
   detection_source: ".github/workflows/commit_lint.yml"
   last_updated_by: appflowy
   last_updated_on: 2022-02-04 07:48:12.000000000 Z
@@ -417,6 +448,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_flutter/android/app/build.gradle
   detection_source: frontend/appflowy_flutter/android/app/build.gradle
   last_updated_by: appflowy
   last_updated_on: 2021-06-19 15:41:19.000000000 Z
@@ -428,6 +460,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/5210/6621265.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/rust-lib/flowy-server/Cargo.toml
   detection_source: frontend/rust-lib/flowy-server/Cargo.toml
   last_updated_by: Lucas.Xu
   last_updated_on: 2023-05-21 10:53:59.000000000 Z
@@ -439,6 +472,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Containers as a Service
   image_url: https://img.stackshare.io/service/3125/xSVaubUG_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/rust-lib/flowy-server/Cargo.toml
   detection_source: frontend/rust-lib/flowy-server/Cargo.toml
   last_updated_by: Lucas.Xu
   last_updated_on: 2023-05-21 10:53:59.000000000 Z
@@ -479,6 +513,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/rust-lib/flowy-user/Cargo.toml
   detection_source: frontend/rust-lib/flowy-user/Cargo.toml
   last_updated_by: appflowy
   last_updated_on: 2021-06-29 08:52:29.000000000 Z
@@ -504,6 +539,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/rust-lib/event-integration/Cargo.toml
   detection_source: frontend/rust-lib/event-integration/Cargo.toml
   last_updated_by: appflowy
   last_updated_on: 2021-07-06 06:14:47.000000000 Z
@@ -516,6 +552,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_tauri/package.json
   detection_source: frontend/appflowy_tauri/package.json
   last_updated_by: Nathan.fooo
   last_updated_on: 2023-01-17 08:27:17.000000000 Z
@@ -527,6 +564,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/rust-lib/lib-dispatch/Cargo.toml
   detection_source: frontend/rust-lib/lib-dispatch/Cargo.toml
   last_updated_by: appflowy
   last_updated_on: 2021-06-24 08:32:36.000000000 Z
@@ -538,6 +576,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_flutter/packages/flowy_infra_ui/example/android/app/build.gradle
   detection_source: frontend/appflowy_flutter/packages/flowy_infra_ui/example/android/app/build.gradle
   last_updated_by: Sean Riley Hawkins
   last_updated_on: 2022-09-01 04:27:09.000000000 Z
@@ -550,6 +589,7 @@ tools:
   category: Collaboration
   sub_category: Project Management
   image_url: https://img.stackshare.io/service/40201/default_427493d0a7707b7ba9268c18554723a887dacff3.jpg
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/scripts/docker-buildfiles/docker-compose.yml
   detection_source: frontend/scripts/docker-buildfiles/docker-compose.yml
   last_updated_by: JP
   last_updated_on: 2023-04-11 02:26:04.000000000 Z
@@ -561,6 +601,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_flutter/ios/Podfile.lock
   detection_source: frontend/appflowy_flutter/ios/Podfile.lock
   last_updated_by: appflowy
   last_updated_on: 2021-10-08 23:14:21.000000000 Z
@@ -570,6 +611,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_flutter/packages/appflowy_popover/example/web/index.html
   detection_source: frontend/appflowy_flutter/packages/appflowy_popover/example/web/index.html
   last_updated_by: Lucas.Xu
   last_updated_on: 2022-07-12 09:30:32.000000000 Z
@@ -581,6 +623,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_flutter/android/app/src/main/CMakeLists.txt
   detection_source: frontend/appflowy_flutter/android/app/src/main/CMakeLists.txt
   last_updated_by: Lucas.Xu
   last_updated_on: 2023-10-19 01:55:23.000000000 Z
@@ -593,6 +636,7 @@ tools:
   category: Application Utilities
   sub_category: Security
   image_url: https://img.stackshare.io/service/3091/preview.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/rust-lib/flowy-sqlite/Cargo.toml
   detection_source: frontend/rust-lib/flowy-sqlite/Cargo.toml
   last_updated_by: Nathan.fooo
   last_updated_on: 2023-03-03 12:38:31.000000000 Z
@@ -619,6 +663,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy
   detection_source: Repo Metadata
 - name: Slate
   description: Beautiful static documentation for your API, inspired by Stripe's and
@@ -630,6 +675,7 @@ tools:
   category: Application Utilities
   sub_category: Documentation as a Service & Tools
   image_url: https://img.stackshare.io/service/4189/preview.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_tauri/package.json
   detection_source: frontend/appflowy_tauri/package.json
   last_updated_by: Kilu.He
   last_updated_on: 2023-06-02 02:05:38.000000000 Z
@@ -638,6 +684,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2558/111990.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_flutter/packages/appflowy_backend/pubspec.yaml
   detection_source: frontend/appflowy_flutter/packages/appflowy_backend/pubspec.yaml
   last_updated_by: appflowy
   last_updated_on: 2021-06-19 15:41:19.000000000 Z
@@ -649,6 +696,7 @@ tools:
   category: Application Utilities
   sub_category: Translation Service
   image_url: https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_tauri/package.json
   detection_source: frontend/appflowy_tauri/package.json
   last_updated_by: Kilu.He
   last_updated_on: 2023-11-03 07:13:49.000000000 Z
@@ -657,6 +705,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/6858/15455.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_tauri/package.json
   detection_source: frontend/appflowy_tauri/package.json
   last_updated_by: Kilu.He
   last_updated_on: 2023-06-27 02:44:06.000000000 Z
@@ -1537,6 +1586,20 @@ tools:
   detection_source: frontend/appflowy_tauri/package.json
   last_updated_by: Kilu.He
   last_updated_on: 2023-09-12 12:49:03.000000000 Z
+- name: katex
+  description: Fast math typesetting for the web
+  package_url: https://www.npmjs.com/katex
+  version: 0.16.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18250/default_c6b51515d4a1dde78342d80e969e295cabf381ac.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_tauri/package.json
+  detection_source: frontend/appflowy_tauri/package.json
+  last_updated_by: Kilu.He
+  last_updated_on: 2023-06-27 02:44:06.000000000 Z
 - name: lodash-es
   description: Lodash exported as ES modules
   package_url: https://www.npmjs.com/lodash-es
@@ -1798,6 +1861,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/jadenblack/AppFlowy/blob/main/frontend/appflowy_flutter/android/app/build.gradle
   detection_source: frontend/appflowy_flutter/android/app/build.gradle
   last_updated_by: appflowy
   last_updated_on: 2021-06-19 15:41:19.000000000 Z
