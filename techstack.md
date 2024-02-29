@@ -3,54 +3,54 @@
 ## Tech Stack
 jadenblack/AppFlowy is built on the following main stack:
 
+- [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- [C++](http://www.cplusplus.com/) – Languages
+- [Dart](https://www.dartlang.org/) – Languages
+- [Java](https://www.java.com) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Kotlin](https://kotlinlang.org/) – Languages
+- [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [Rust](http://www.rust-lang.org/) – Languages
+- [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- [Swift](https://developer.apple.com/swift/) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
+- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- [Flutter](https://flutter.io/) – Cross-Platform Mobile Development
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
+- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- [React](https://reactjs.org/) – Javascript UI Libraries
+- [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
+- [Redux](https://redux.js.org/) – State Management Library
+- [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
+- [Serde](https://serde.rs) – Serialization Frameworks
+- [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
+- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) – JavaScript Framework Components
+- [PostgREST](https://github.com/begriffs/postgrest) – Database Tools
+- [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- [CMake](http://www.cmake.org/) – Java Build Tools
+- [Chai](http://chaijs.com/) – Javascript Testing Framework
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [ESLint](http://eslint.org/) – Code Review
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Gradle](https://www.gradle.org/) – Java Build Tools
+- [Hex](https://hex.pm/) – Package Managers
+- [Hyper](https://hyper.sh/) – Containers as a Service
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [Gradle](https://www.gradle.org/) – Java Build Tools
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Java](https://www.java.com) – Languages
-- [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
-- [Swift](https://developer.apple.com/swift/) – Languages
-- [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
-- [C++](http://www.cplusplus.com/) – Languages
-- [Rust](http://www.rust-lang.org/) – Languages
-- [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [Dart](https://www.dartlang.org/) – Languages
-- [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
-- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- [PostgREST](https://github.com/begriffs/postgrest) – Database Tools
-- [CMake](http://www.cmake.org/) – Java Build Tools
-- [OpenSSL](https://www.openssl.org/) – Security
-- [Hyper](https://hyper.sh/) – Containers as a Service
-- [ESLint](http://eslint.org/) – Code Review
-- [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
-- [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
-- [Kotlin](https://kotlinlang.org/) – Languages
-- [Redux](https://redux.js.org/) – State Management Library
-- [Slate](https://github.com/tripit/slate) – Documentation as a Service & Tools
-- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [i18next](https://www.i18next.com/) – Translation Service
-- [Hex](https://hex.pm/) – Package Managers
 - [Prettier](https://prettier.io/) – Code Review
-- [Flutter](https://flutter.io/) – Cross-Platform Mobile Development
-- [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
-- [Android OS](https://www.android.com) – Operating Systems
-- [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) – JavaScript Framework Components
-- [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
-- [Serde](https://serde.rs) – Serialization Frameworks
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
+- [Android OS](https://www.android.com) – Operating Systems
 - [Appflowy](https://www.appflowy.io/) – Project Management
 - [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
-- [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [OpenSSL](https://www.openssl.org/) – Security
+- [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Slate](https://github.com/tripit/slate) – Documentation as a Service & Tools
+- [i18next](https://www.i18next.com/) – Translation Service
 
 Full tech stack [here](/techstack.md)
 
@@ -60,54 +60,54 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 jadenblack/AppFlowy is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1646/Twitter-02.png' alt='Dart'/> [Dart](https://www.dartlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1008/xcode.png' alt='Objective-C'/> [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png' alt='Android SDK'/> [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/7180/flutter-mark-square-100.png' alt='Flutter'/> [Flutter](https://flutter.io/) – Cross-Platform Mobile Development
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/3339/rlFcjEdI.png' alt='PostCSS'/> [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
+- <img width='25' height='25' src='https://img.stackshare.io/service/4074/13142323.png' alt='Redux'/> [Redux](https://redux.js.org/) – State Management Library
+- <img width='25' height='25' src='https://img.stackshare.io/service/1796/984368.png' alt='RxJS'/> [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/11028/no-img-open-source.png' alt='Serde'/> [Serde](https://serde.rs) – Serialization Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/9878/react-beautiful-dnd-logo.png' alt='react-beautiful-dnd'/> [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) – JavaScript Framework Components
+- <img width='25' height='25' src='https://img.stackshare.io/service/2296/postgrest.png' alt='PostgREST'/> [PostgREST](https://github.com/begriffs/postgrest) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg' alt='CMake'/> [CMake](http://www.cmake.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/5210/6621265.png' alt='Hex'/> [Hex](https://hex.pm/) – Package Managers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3125/xSVaubUG_400x400.jpg' alt='Hyper'/> [Hyper](https://hyper.sh/) – Containers as a Service
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1008/xcode.png' alt='Objective-C'/> [Objective-C](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1009/tuHsaI2U.png' alt='Swift'/> [Swift](https://developer.apple.com/swift/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png' alt='Android SDK'/> [Android SDK](http://developer.android.com) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1646/Twitter-02.png' alt='Dart'/> [Dart](https://www.dartlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1796/984368.png' alt='RxJS'/> [RxJS](http://reactivex.io/rxjs/) – Concurrency Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2296/postgrest.png' alt='PostgREST'/> [PostgREST](https://github.com/begriffs/postgrest) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg' alt='CMake'/> [CMake](http://www.cmake.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3091/preview.png' alt='OpenSSL'/> [OpenSSL](https://www.openssl.org/) – Security
-- <img width='25' height='25' src='https://img.stackshare.io/service/3125/xSVaubUG_400x400.jpg' alt='Hyper'/> [Hyper](https://hyper.sh/) – Containers as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3339/rlFcjEdI.png' alt='PostCSS'/> [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/3350/8261421.png' alt='React Router'/> [React Router](https://github.com/rackt/react-router) – JavaScript Framework Components
-- <img width='25' height='25' src='https://img.stackshare.io/service/3750/pCfEzr6L.png' alt='Kotlin'/> [Kotlin](https://kotlinlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4074/13142323.png' alt='Redux'/> [Redux](https://redux.js.org/) – State Management Library
-- <img width='25' height='25' src='https://img.stackshare.io/service/4189/preview.png' alt='Slate'/> [Slate](https://github.com/tripit/slate) – Documentation as a Service & Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png' alt='i18next'/> [i18next](https://www.i18next.com/) – Translation Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/5210/6621265.png' alt='Hex'/> [Hex](https://hex.pm/) – Package Managers
 - <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/7180/flutter-mark-square-100.png' alt='Flutter'/> [Flutter](https://flutter.io/) – Cross-Platform Mobile Development
-- <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg' alt='Android OS'/> [Android OS](https://www.android.com) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/9878/react-beautiful-dnd-logo.png' alt='react-beautiful-dnd'/> [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) – JavaScript Framework Components
-- <img width='25' height='25' src='https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png' alt='Prism'/> [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/11028/no-img-open-source.png' alt='Serde'/> [Serde](https://serde.rs) – Serialization Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg' alt='Android OS'/> [Android OS](https://www.android.com) – Operating Systems
 - <img width='25' height='25' src='https://img.stackshare.io/service/40201/default_427493d0a7707b7ba9268c18554723a887dacff3.jpg' alt='Appflowy'/> [Appflowy](https://www.appflowy.io/) – Project Management
 - <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png' alt='pgvector'/> [pgvector](https://github.com/pgvector/pgvector/) – Database Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3091/preview.png' alt='OpenSSL'/> [OpenSSL](https://www.openssl.org/) – Security
+- <img width='25' height='25' src='https://img.stackshare.io/service/10010/Screen_Shot_2012-07-31_at_21.57.03__400x400.png' alt='Prism'/> [Prism](https://prismjs.com/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/4189/preview.png' alt='Slate'/> [Slate](https://github.com/tripit/slate) – Documentation as a Service & Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png' alt='i18next'/> [i18next](https://www.i18next.com/) – Translation Service
 
 Full tech stack [here](/techstack.md)
 
@@ -118,7 +118,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jadenblack/AppFlowy](https://github.com/jadenblack/AppFlowy)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|141<br/>Tools used|01/05/24 <br/>Report generated|
+|141<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -714,7 +714,7 @@ Full tech stack [here](/techstack.md)
 |[ts-jest](https://www.npmjs.com/ts-jest)|v29.1.1|09/12/23|Kilu.He |MIT|N/A|
 |[ts-node-dev](https://www.npmjs.com/ts-node-dev)|v2.0.0|09/12/23|Kilu.He |MIT|N/A|
 |[utf8](https://www.npmjs.com/utf8)|v3.0.0|03/25/23|qinluhe |MIT|N/A|
-|[vite](https://www.npmjs.com/vite)|v4.0.0|09/11/23|fangwufeng-v |N/A|[CVE-2023-34092](https://github.com/advisories/GHSA-353f-5xf4-qw67) (High)|
+|[vite](https://www.npmjs.com/vite)|v4.0.0|09/11/23|fangwufeng-v |N/A|[CVE-2024-23331](https://github.com/advisories/GHSA-c24v-8rfc-w8vw) (High)<br/>[CVE-2023-34092](https://github.com/advisories/GHSA-353f-5xf4-qw67) (High)|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png'/> CocoaPods (1)
