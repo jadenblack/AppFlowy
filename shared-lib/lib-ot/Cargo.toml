@@ -14,7 +14,7 @@ tracing.workspace = true
 lazy_static = "1.4.0"
 strum = "0.21"
 strum_macros = "0.21"
-bytes = "1.4"
+bytes = "1.11"
 indextree = "4.5.0"
 
 
